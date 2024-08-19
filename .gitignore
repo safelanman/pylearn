@@ -1,0 +1,25 @@
+# Операционные системные файлы
+*.log
+*.swp
+*.swo
+.DS_Store
+
+# Python файлы
+*.pyc
+__pycache__/
+
+# Виртуальные окружения
+venv/
+env/
+myenv/
+
+# Файлы зависимостей
+*.pyo
+.Python
+*.sqlite3
+*.log
+*.env
+*.ini
+*.json
+*.cfg
+*.lock
